@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomPersonsMathLibrary", "RandomPersonsMathLibrary\RandomPersonsMathLibrary.csproj", "{ABB7DE3A-B6BA-4DFA-A4AE-61D642294007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB7DE3A-B6BA-4DFA-A4AE-61D642294007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB7DE3A-B6BA-4DFA-A4AE-61D642294007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB7DE3A-B6BA-4DFA-A4AE-61D642294007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB7DE3A-B6BA-4DFA-A4AE-61D642294007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B399D48-1BF2-4774-AA06-C14B1A6888B5}
+	EndGlobalSection
+EndGlobal

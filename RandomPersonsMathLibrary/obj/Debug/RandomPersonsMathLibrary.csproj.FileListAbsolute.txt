@@ -1,0 +1,9 @@
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\bin\Debug\RandomPersonsMathLibrary.exe.config
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\bin\Debug\RandomPersonsMathLibrary.exe
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\bin\Debug\RandomPersonsMathLibrary.pdb
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\bin\Debug\MyMathDLL.dll
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\obj\Debug\RandomPersonsMathLibrary.csprojAssemblyReference.cache
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\obj\Debug\RandomPersonsMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\obj\Debug\RandomPersonsMathLibrary.csproj.CopyComplete
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\obj\Debug\RandomPersonsMathLibrary.exe
+C:\Users\NSC\Sync\Skole\3. semester\Program\RandomPersonsMathLibrary\RandomPersonsMathLibrary\obj\Debug\RandomPersonsMathLibrary.pdb
